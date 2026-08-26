@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+phishing_model.joblib
+venv/
+.env

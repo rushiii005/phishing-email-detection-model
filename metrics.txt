@@ -1,0 +1,13 @@
+Dataset size: 60
+Training samples: 45
+Test samples: 15
+Accuracy: 0.867
+
+              precision    recall  f1-score   support
+
+        Safe      0.857     0.857     0.857         7
+    Phishing      0.875     0.875     0.875         8
+
+    accuracy                          0.867        15
+   macro avg      0.866     0.866     0.866        15
+weighted avg      0.867     0.867     0.867        15

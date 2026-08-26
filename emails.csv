@@ -1,0 +1,61 @@
+label,subject,body,urls
+phishing,Urgent account verification,Your account will be suspended today. Verify your login immediately.,https://secure-account-check.example/verify
+phishing,Payment failed,Your recent payment failed. Sign in to update billing information.,https://billing-update.example/login
+phishing,You won a reward,Congratulations! Claim your reward by confirming account details.,http://claim-prize.example/reward
+phishing,Security alert,We detected unusual activity. Log in now to secure your account.,http://bank-alert.example/secure
+phishing,Password expires today,Your password expires today. Use this link to keep mailbox access.,https://mail-security.example/reset
+phishing,Invoice overdue,Your invoice is overdue. Open the payment page and enter card information.,http://invoice-pay.example/update
+phishing,Payroll verification,Payroll verification is required. Enter employee credentials to avoid delay.,https://hr-verify.example/employee
+phishing,Mailbox verification,Your mailbox needs verification. Sign in to prevent account closure.,https://office-login.example/check
+phishing,Delivery address problem,Confirm your address and pay the small redelivery fee.,http://parcel-fee.example/address
+phishing,Gift card verification,Confirm the gift card number and security code to receive your bonus.,http://gift-bonus.example/claim
+phishing,Refund pending,Your refund is waiting. Confirm your bank details to receive the amount.,https://refund-center.example/bank
+phishing,Cloud storage warning,Your storage is full. Verify your account to prevent deletion of files.,https://cloud-review.example/verify
+phishing,Unusual sign-in detected,A new-device sign-in was detected. Confirm your identity immediately.,https://identity-check.example/login
+phishing,Tax document notification,Your tax document is ready. Verify your personal information.,http://tax-document.example/view
+phishing,Account recovery request,Confirm your password if you did not make this recovery request.,https://account-recovery.example/confirm
+phishing,Final warning,Your account will be locked unless you verify it right away.,http://account-lock.example/restore
+phishing,Crypto wallet verification,Enter your recovery phrase to complete wallet security verification.,http://wallet-check.example/secure
+phishing,Document shared,A confidential document is waiting. Sign in before the access link expires.,https://shared-doc.example/view
+phishing,Purchase confirmation needed,We noticed a purchase you may not recognize. Log in to cancel it.,http://order-security.example/cancel
+phishing,Benefits enrollment,Verify your employee account before the benefits deadline.,https://benefits-portal.example/verify
+phishing,New voicemail,A voicemail is waiting. Use the secure link to listen.,https://voice-message.example/play
+phishing,Security token expired,Your security token expired. Re-authenticate through the portal immediately.,https://token-refresh.example/auth
+phishing,Bank transfer on hold,Sign in and confirm your details to release the transfer.,http://transfer-alert.example/verify
+phishing,Account upgrade,Upgrade today by confirming your password and contact information.,https://account-upgrade.example/start
+phishing,Domain renewal warning,Your domain expires today. Sign in to renew it.,http://domain-renew.example/billing
+phishing,Security review required,Complete the security review by confirming your account information.,https://security-review.example/complete
+phishing,Application status update,One final verification step is required. Log in to continue.,http://application-check.example/login
+phishing,Travel booking issue,Verify your payment information to keep the reservation.,https://travel-support.example/payment
+phishing,Expense reimbursement,Confirm your banking details to receive reimbursement.,http://expense-pay.example/confirm
+phishing,Login attempt blocked,Verify your identity to restore access after a blocked login.,https://login-protect.example/restore
+safe,Project meeting notes,Here are the notes from today's engineering meeting. The next review is Friday.,
+safe,Quarterly report,Please review the quarterly report before our team discussion tomorrow.,
+safe,Library opening hours,The campus library remains open until 10 PM during exams.,
+safe,Lunch plans,I booked a table for four at 1 PM. Let me know if you want to change it.,
+safe,Course registration reminder,Course registration opens Monday at 9 AM on the university portal.,https://university.example/registrar
+safe,Team stand-up moved,Tomorrow's stand-up has moved to 10:30 AM because of the client meeting.,
+safe,Monthly electricity bill,Your August electricity statement is available in the customer portal.,https://utility.example/account
+safe,Order shipped,Your order has shipped. Track it from your order history.,https://shop.example/orders
+safe,Interview schedule,Your interview is confirmed for Wednesday at 11 AM. Bring your resume.,
+safe,Project files updated,I updated the project folder with the latest design files.,https://drive.example/project
+safe,Office maintenance notice,Second-floor meeting rooms are unavailable Saturday for scheduled maintenance.,
+safe,Training session,The new employee training session is available in the learning portal.,https://learning.example/course
+safe,Appointment reminder,This is a reminder that your appointment is Tuesday at 3 PM.,
+safe,Salary statement,Your monthly salary statement is available in the employee portal.,https://hr.example/payroll
+safe,Team lunch survey,Please complete the team lunch survey by Thursday.,https://forms.example/team-lunch
+safe,Meeting room booking,Room 204 is booked for the design review from 2 PM to 3 PM.,
+safe,Software release notes,Version 2.4 is ready for testing. Review the release notes for changes.,https://docs.example/release-2-4
+safe,Client feedback,The client sent comments on the homepage draft. I added them to the project board.,
+safe,Holiday schedule,The office holiday schedule is available on the intranet.,https://intranet.example/holidays
+safe,Community event,The neighborhood clean-up starts at 8 AM on Saturday.,
+safe,Workshop materials,The slides and exercises from today's Python workshop are in the course folder.,https://training.example/python
+safe,Subscription renewal notice,Your annual software subscription renews next month; details are in your account.,https://service.example/account
+safe,Restaurant reservation,Your Saturday 7 PM reservation is confirmed.,https://restaurant.example/reservation
+safe,Flight itinerary,Your flight itinerary is attached. Check the departure time before traveling.,
+safe,Exam timetable,The revised exam timetable is published on the university website.,https://university.example/exams
+safe,Password policy update,IT updated the password policy. Read the guidance on the internal portal.,https://intranet.example/security
+safe,Git repository review,I opened a pull request with the requested changes for code review.,https://git.example/team-project
+safe,Conference registration,Your conference registration is confirmed. The event agenda comes next week.,https://conference.example/agenda
+safe,Water supply notice,Water service in the north block will be unavailable 9 AM to 11 AM.,
+safe,Backup completed,The scheduled backup completed successfully last night. No action is required.,
